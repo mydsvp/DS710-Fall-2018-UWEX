@@ -1,0 +1,2 @@
+# DS710-Fall-2018-UWEX
+Data Science 710 Fall 2018 UWEX
